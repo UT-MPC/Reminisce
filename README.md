@@ -16,3 +16,5 @@ A full paper can be found here: [link](http://mpc.ece.utexas.edu/media/uploads/p
 ## Installation
 
 > Reminisce supports android API > 23  
+
+[apk](https://github.com/UT-MPC/Reminisce/blob/master/reminisce.apk)

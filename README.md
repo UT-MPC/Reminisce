@@ -1,4 +1,4 @@
-# Reminisce
+# Reminisce :fallen_leaf:
 
 Reminisce is an Android application for recalling photos context-relevantly.
 
